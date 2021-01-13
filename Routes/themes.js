@@ -5,7 +5,8 @@ const lightTheme = {
     colors: {
         ...DefaultTheme.colors,
         primary: "rgb(255, 45, 85)",
-        secondary: "#fff"
+        secondary: "#fff",
+        text: '#000'
     }
 };
 
@@ -26,7 +27,7 @@ const customTheme = {
         ...DarkTheme.colors,
         background: "#3b4957",
         primary: "#fff",
-        text: "#fff",
+        text: "#ff0",
         border: "#fff",
         notification: "#fff"
     }
